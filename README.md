@@ -9,9 +9,10 @@ I'm interested in data analysis and all its science but web development is also 
 **Talking about me**
 
 Economics allows me to understand the social context and thanks to programming I can represent it in a better way for everyone.
-I am currently learning more about data science, programming and machine learning.
+I am currently learning more about data science, programming and machine learning. Any kind of advice is welcome. 
 
-Any kind of advice is welcome. 
+
+
 Knowledge is for everyone!
 
 *If you want to know more about me:*
