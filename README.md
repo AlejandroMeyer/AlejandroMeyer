@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alejandro Meyer Contreras but but you can call me Meyer👋
 
 <!--
 **AlejandroMeyer/AlejandroMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
