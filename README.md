@@ -16,21 +16,23 @@ I am currently learning more about data science, programming and machine learnin
 Knowledge is for everyone!
 
 
-**Languages and Tools:**
+```
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-
-
-
-
+MEYER = {
+  area: ['Data engineering', 'Data Analysis', 'Machine learning', 'AI', 'Business intelligence', 'Software development', 'Project management'],
+  code: ['Python', 'JavaScript', 'HTML', 'CSS', 'SQL server'],
+  tools: ['Power BI', 'Azure'],
+  knowledge: {
+                code: 'C#', '.NET', 'PostgreSQL',
+                tools: 'AWS', 'Mongo', 'Tableau', 'Google BigQuery',
+             },
+  extra: ['Scrum master certified', 'Teacher'],
+  myPerspective: ['Technology is to serve people']
+ 
+```
 
 
 *If you want to know more about me:*
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='22'>](https://www.facebook.com/alejandro.meyerC) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='22'>](https://www.instagram.com/@__meyer__/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/@alejandromeyerc) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/alejandro-meyer-contreras-76a80617a) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/@alejandromeyerc) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/alejandro-meyer-contreras-76a80617a) 
