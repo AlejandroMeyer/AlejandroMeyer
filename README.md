@@ -20,13 +20,14 @@ MEYER = {
   area: ['Data engineering', 'Data Analysis', 'Machine learning', 'AI', 'Business intelligence', 'Software development', 'Project management'],
   code: ['Python', 'JavaScript', 'HTML', 'CSS', 'SQL server'],
   tools: ['Power BI', 'Azure'],
-  knowledge: {
-                code: 'C#', '.NET', 'PostgreSQL',
-                tools: 'AWS', 'Mongo', 'Tableau', 'Google BigQuery',
-             },
+  developing: {
+                  code: 'C#', '.NET', 'PostgreSQL',
+                  tools: 'AWS', 'Mongo', 'Tableau', 'Google BigQuery',
+              },
   extra: ['Scrum master certified', 'Teacher'],
   myPerspective: ['Technology is to serve people']
- 
+}
+
 ```
 
 
