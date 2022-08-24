@@ -11,9 +11,7 @@ I'm interested in data analysis and all its science but software development is 
 Economics allows me to understand the social context and thanks to programming I can represent it in a better way for everyone.
 I am constantly learning about new technologies as well as process improvement. In the near future AI will help society more, we must be prepared for the change!
 
-*Always remember:* Data is the most important asset!
-
-Knowledge is for everyone!
+*Always remember: Data is the most important asset and the knowledge is for everyone!*
 
 
 ```
