@@ -1,17 +1,17 @@
-### Hi, I'm Alejandro Meyer Contreras👋
+## Hi, I'm Alejandro Meyer Contreras👋
 
 Everyone calls me Meyer, I'm an economist and I like data.
 I love learning new things and challenges are a passion for me. Any time is a good time to accept new challenges.
-I'm interested in data analysis and all its science but web development is also welcome. 
+I'm interested in data analysis and all its science but software development is also welcome. 
 
 
 
 **Talking about me**
 
 Economics allows me to understand the social context and thanks to programming I can represent it in a better way for everyone.
-I am currently learning more about data science, programming and machine learning. Any kind of advice is welcome. 
+I am constantly learning about new technologies as well as process improvement. In the near future AI will help society more, we must be prepared for the change!
 
-
+*Always remember:* Data is the most important asset!
 
 Knowledge is for everyone!
 
