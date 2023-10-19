@@ -33,5 +33,5 @@ MEYER = {
 
 *If you want to know more about me:*
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/@alejandromeyerc) 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/alejandro-meyer-contreras-76a80617a) 
