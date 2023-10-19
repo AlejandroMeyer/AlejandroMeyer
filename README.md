@@ -17,12 +17,12 @@ I am constantly learning about new technologies as well as process improvement. 
 ```
 
 MEYER = {
-  area: ['Data Analysis', 'Data Architect', 'Machine learning', 'AI', 'Business intelligence', 'Software development', 'Project management'],
-  code: ['Python', 'JavaScript', 'HTML', 'CSS', 'SQL server', 'Git'],
-  tools: ['Power BI', 'Azure'],
+  area: ['Data Analysis', 'Data Architect', 'Machine learning', 'AI', 'Business intelligence', 'Project management'],
+  code: ['Python', 'SQL server', 'JavaScript', 'HTML', 'CSS'],
+  tools: ['SSIS','Jira','Power BI', 'Azure', 'Git']',
   developing: {
-                  code: 'C#', '.NET', 'PostgreSQL',
-                  tools: 'AWS', 'Mongo', 'Tableau', 'Google BigQuery', 'Oracle',
+                  code: 'C#', '.NET', 'PostgreSQL'. 'Mongo',
+                  tools: 'AWS', 'Tableau',
               },
   extra: ['Scrum master certified', 'Teacher'],
   myPerspective: ['Technology is to serve people']
