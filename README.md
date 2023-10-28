@@ -19,10 +19,10 @@ I am constantly learning about new technologies as well as process improvement. 
 MEYER = {
   area: ['Data Analysis', 'Data Architect', 'Machine learning', 'AI', 'Business intelligence', 'Project management'],
   code: ['Python', 'SQL server', 'JavaScript', 'HTML', 'CSS'],
-  tools: ['SSIS','Jira','Power BI', 'Azure', 'Git']',
+  tools: ['SSIS','Jira', 'Azure', 'Git']',
   developing: {
                   code: 'C#', '.NET', 'PostgreSQL'. 'Mongo',
-                  tools: 'AWS', 'Tableau',
+                  tools: 'AWS', 'Power BI', 'Tableau',
               },
   extra: ['Scrum master certified', 'Teacher'],
   myPerspective: ['Technology is to serve people']
